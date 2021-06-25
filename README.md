@@ -67,7 +67,7 @@ Made with :heart: in Brasil.
 Licença
 ----
 
-    Copyright 2016 Matheus Silva 
+    Copyright 2021 Matheus Silva 
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
