@@ -1,5 +1,6 @@
 
-# <p align="center"> NLW6/Together - Projeto de aplicativo para controle de boletos.</p>
+# <p align="center"> NLW6/Together</p>
+# <p align="center"> Projeto de aplicativo para controle de boletos.</p>
 
 > Projeto criado como método de estudo na NLW6/Together da [Rocketseat](https://rocketseat.com.br/) 
 
