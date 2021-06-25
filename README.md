@@ -1,6 +1,6 @@
 # NLW6/Together - Projeto de aplicativo para controle de boletos.
 
-> Projeto de Conclusão do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
+> Projeto criado como método de estudo na NLW6/Together da [Rocketseat](https://rocketseat.com.br/) 
 
 > Exemplo de uso: Quer se lembrar de todos os boletos que você tem que pagar no mês? Cadastre-os no aplicativo PayFlow, assim podendo ter um maior controle sobre eles.
 
